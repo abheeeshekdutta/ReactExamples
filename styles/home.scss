@@ -1,0 +1,63 @@
+#t1 {
+  color:blue;
+  font-family:sans-serif;
+  font-size: 25px;  
+}
+
+#t2{
+  color:lightgreen;
+  font-family:sans-serif;
+  font-size: 70px;  
+  text-align: center;
+}
+
+#t3{
+  margin-left:25%;
+  max-width:100%;
+  object-fit: contain;
+}
+
+#container{
+  border: solid;
+  resize: both;
+}
+
+table, th, td, tr {
+    border: 1px solid black;
+    padding:15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#thcolours
+{
+  background-color: #809fff;
+  color:black;
+  font-weight:bold; 
+  text-align-last:center;
+}
+
+#reduceSpace
+{
+  padding:1px;
+}
+
+#makeSmall
+{
+  font-size: 10px;
+}
+
+td.entry
+{
+  max-width: 105px !important;
+  text-align-last: center;
+}
+
+#cellGreen
+{
+  background-color:  #80ff80;
+}
+
+#cellRed
+{
+  background-color:  #ff3333;
+}
